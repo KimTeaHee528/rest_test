@@ -13,10 +13,10 @@
         <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
             <level>INFO</level>
         </filter>
-        <file>/log/log.txt</file>
+        <file>log/log.txt</file>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
             <!-- rollover daily -->
-            <fileNamePattern>log-%d{yyyy-MM-dd}.%i.txt</fileNamePattern>
+            <fileNamePattern>log/log-%d{yyyy-MM-dd}.%i.txt</fileNamePattern>
             <timeBasedFileNamingAndTriggeringPolicy
                     class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
                 <!-- or whenever the file size reaches 100MB -->
