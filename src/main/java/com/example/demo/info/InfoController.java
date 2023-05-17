@@ -27,6 +27,7 @@ import lombok.extern.slf4j.Slf4j;
 public class InfoController {
 
 	
+	//test
 	//	@Autowired //여기에 @Autowired 해도 되지만 생성자 만들어서 쓰는걸 추천한다고 한다(순환참조 방지 등...)
 	private InfoService infoService;
 	
