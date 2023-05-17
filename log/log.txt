@@ -12,3 +12,40 @@
 [INFO ] 17:24:09.555 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-88"]
 [INFO ] 17:24:09.583 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 88 (http) with context path ''
 [INFO ] 17:24:09.622 c.e.demo.SpringApiTrApplication - Started SpringApiTrApplication in 2.976 seconds (JVM running for 4.044)
+[INFO ] 17:26:54.914 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 17:26:55.246 o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-88"]
+[INFO ] 17:26:55.246 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[INFO ] 17:26:55.260 o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-88"]
+[INFO ] 17:26:55.265 o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-88"]
+[INFO ] 17:27:14.339 c.e.demo.SpringApiTrApplication - Starting SpringApiTrApplication using Java 11.0.18 on K_gram with PID 8364 (D:\project\spring_api_tr\bin\main started by KinTH in D:\project\spring_api_tr)
+[INFO ] 17:27:14.341 c.e.demo.SpringApiTrApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 17:27:14.593 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 17:27:14.593 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 17:27:15.852 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 88 (http)
+[INFO ] 17:27:15.865 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-88"]
+[INFO ] 17:27:15.866 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:27:15.866 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.74]
+[INFO ] 17:27:15.938 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:27:15.939 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1345 ms
+[INFO ] 17:27:16.533 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:27:16.554 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-88"]
+[INFO ] 17:27:16.576 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 88 (http) with context path ''
+[INFO ] 17:27:16.608 c.e.demo.SpringApiTrApplication - Started SpringApiTrApplication in 2.792 seconds (JVM running for 3.84)
+[INFO ] 17:36:07.658 o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[INFO ] 17:36:07.892 o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-88"]
+[INFO ] 17:36:07.893 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[INFO ] 17:36:07.903 o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-88"]
+[INFO ] 17:36:07.907 o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-88"]
+[INFO ] 17:36:08.018 c.e.demo.SpringApiTrApplication - Starting SpringApiTrApplication using Java 11.0.18 on K_gram with PID 8364 (D:\project\spring_api_tr\bin\main started by KinTH in D:\project\spring_api_tr)
+[INFO ] 17:36:08.019 c.e.demo.SpringApiTrApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 17:36:08.334 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 88 (http)
+[INFO ] 17:36:08.335 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-88"]
+[INFO ] 17:36:08.336 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:36:08.336 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.74]
+[INFO ] 17:36:08.358 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:36:08.358 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 334 ms
+[INFO ] 17:36:08.540 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:36:08.549 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-88"]
+[INFO ] 17:36:08.552 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 88 (http) with context path ''
+[INFO ] 17:36:08.562 c.e.demo.SpringApiTrApplication - Started SpringApiTrApplication in 0.594 seconds (JVM running for 535.795)
+[INFO ] 17:36:08.565 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
