@@ -28,7 +28,7 @@ public class InfoController {
 
 	
 	//test
-	//	@Autowired //여기에 @Autowired 해도 되지만 생성자 만들어서 쓰는걸 추천한다고 한다(순환참조 방지 등...)
+	//@Autowired //여기에 @Autowired 해도 되지만 생성자 만들어서 쓰는걸 추천한다고 한다(순환참조 방지 등...)
 	private InfoService infoService;
 	
 	@Autowired  // spring 4.3 버전 이상부터는 생략 가능
