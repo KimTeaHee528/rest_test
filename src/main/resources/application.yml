@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://funk-db-test.cnpe7potww3x.ap-northeast-2.rds.amazonaws.com:3306/apitest?serverTimeZone=UTF&CharacterEncoding=UTF=8
+    username: KingTH
+    password: 8465213slsl!
+    hikari:
+      maximum-pool-size: 10
+      connection-timeout: 5000
+      connection-init-sql: SELECT 1
+      validation-timeout: 2000
+      minimum-idle: 10
+      idle-timeout: 600000
+      max-lifetime: 1800000
+server:
+  port: 88
